@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;writing_lib/Core/Inc/joystick&apos; to &apos;joystick.h&apos;" description="Rename resource &apos;joystick&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/joystick" name="joystick.h" stamp="1608154035195" updateReferences="true"/>
+</session>

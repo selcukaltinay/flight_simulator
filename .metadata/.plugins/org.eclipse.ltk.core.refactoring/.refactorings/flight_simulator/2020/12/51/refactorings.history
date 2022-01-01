@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;flight_simulator/Core/Inc/BMP180_prep&apos; to &apos;BMP180_prep.h&apos;" description="Rename resource &apos;BMP180_prep&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/BMP180_prep" name="BMP180_prep.h" stamp="1608401595940" updateReferences="true"/>
+</session>
