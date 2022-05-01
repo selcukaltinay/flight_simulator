@@ -1,5 +1,5 @@
 
-# [***Flight Simulator***]{.underline}
+[***Flight Simulator***]{.underline}
 
 With this application, you can simulate the data from your boarding pass with labview. I did not upload the full version of the application to github because I was doing academic work. If you need the full version, you can contact me.
 
